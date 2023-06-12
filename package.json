@@ -1,0 +1,15 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "poke api juan ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juanm",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
